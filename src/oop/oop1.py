@@ -34,7 +34,7 @@ class Motorcycle(GroundVehicle):
 class FlightVehicle(Vehicle):
     pass
     
-class Startship(FlightVehicle):
+class Starship(FlightVehicle):
     pass
 
 class Airplane(FlightVehicle):
