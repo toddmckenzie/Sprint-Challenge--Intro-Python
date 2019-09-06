@@ -10,6 +10,7 @@ def check_city(inp, exp):
       return False
     return True
 
+
 class CityreaderTests(unittest.TestCase):
   def setUp(self):
     self.cities = cityreader()
